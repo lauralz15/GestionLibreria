@@ -33,8 +33,8 @@ Archivos del repositorio
 
 practice.hs : Código fuente principal en Haskell.
 
-libreria.txt : Archivo de datos generado por el programa. Incluye algunos registros de ejemplo para pruebas.
-
+Library.txt: archivo mencionado en el enunciado de la práctica.
+libreria.txt: archivo generado y utilizado directamente por el programa en Haskell.
 README.md : Documento con información de la práctica.
 
 Ejecución
