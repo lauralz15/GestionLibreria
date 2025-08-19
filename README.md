@@ -42,3 +42,5 @@ Ejecución
 Para ejecutar directamente sin compilar:
 runghc practice.hs
 
+Link del video de explicación: https://youtu.be/JJzAeCWxr04?si=SXRW6mueOrlVYHud
+
